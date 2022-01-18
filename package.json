@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Christian Manzara, <magnusmaz@gmail.com>",
+  "author": "christian manzaraz",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
