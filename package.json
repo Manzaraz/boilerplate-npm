@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
+  "author": "Christian Manzara, <magnusmaz@gmail.com>",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
   },
